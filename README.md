@@ -29,10 +29,3 @@ Designed and developed by **Kamil** to highlight freelance projects, professiona
 ## 🖼️ Screenshot
 
 ![Portfolio Screenshot](https://kamilpixel.github.io/assets/github-readme.jpg)
-
----
-
-## 📂 How It Works
-
-This repository only includes the **production build files**.  
-Updates to the site are made by building the project from the [source repo](https://github.com/kamilpixel/kamilpixel.github.io-source) and pushing the output to this repository or its `gh-pages` branch.
